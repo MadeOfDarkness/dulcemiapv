@@ -1,0 +1,7 @@
+-Traducir al ingles
+-Boton subir
+-Arreglar logo navbar
+-Preguntar sobre foto de adriana y añadirle efecto chido
+-Hacer navbar responsivo
+-Subir fotos a imgur
+-Hacer contactanos funcional
